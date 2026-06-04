@@ -42,6 +42,7 @@
   "terminal.integrated.enableMultiLinePasteWarning": "always",
   "terminal.integrated.cursorStyle": "underline",
   "terminal.integrated.cursorBlinking": true,
+  "window.confirmBeforeClose": "always",
   /** ------------ Additional Configurations ------------ **/
   "vscode_custom_css.imports": [
     "file:///home/ryaleason/.config/costumize-vscode/vscode-custom/style.css",
